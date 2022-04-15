@@ -3,6 +3,10 @@ DAMG 7245 - Big Data Systems &amp; IA Assignment 5
 
 Open Codelabs document [Here](https://codelabs-preview.appspot.com/?file_id=1zbc6fNJV5Msqiwyye3LPGtQclWHoE3v9ggmCOBst-d8#0):rocket:
 
+### Live Demo Screen recording 🎥
+
+[![Weather Nowcasting System using SEVIR NOAA dataset](https://res.cloudinary.com/marcomontalbano/image/upload/v1649982532/video_to_markdown/images/youtube--LDiy4YRJmp8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LDiy4YRJmp8 "Weather Nowcasting System using SEVIR NOAA dataset")
+
 ## Deliverables
 
 1.  Limiting API Invocations from User
