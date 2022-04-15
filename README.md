@@ -152,3 +152,16 @@ Finally, we push the image to ECR Registry.
             jwt_bearer.py
             jwt_handler.py
 ```
+
+### Team Contributions
+
+| Team Member     | NUID      | Work Done                                 | Percentage(%) contribution |
+|-----------------|-----------|-------------------------------------------|----------------------------|
+| Kshitij Zutshi  | 001021288 | BERT APIs                                 | 33.33333%                  |
+| Priyanka Shinde | 001524484 | Streamlit, User Auth, GCP dashboard       | 33.33333%                  |
+| Dwithika Shetty | 002114630 | Airflow deployment, Streamlit integration | 33.33333%                  |
+|                 |           |                                           |                            |
+
+
+
+**“WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK”**
