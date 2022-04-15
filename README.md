@@ -13,6 +13,14 @@ Open Codelabs document [Here](https://codelabs-preview.appspot.com/?file_id=1zbc
 2.  Build and deploy NER and Summarization APIs
 3.  Build a LIVE admin dashboard
 
+## Tutorial Tryout and BERT API Repos
+
+[Serverless-Question-Answering-API](https://github.com/kshitijzutshi/Serverless-Question-Answering-API)
+
+[BERT-Summary-API](https://github.com/kshitijzutshi/BERT-Summary-API)
+
+[BERT-NER-API](https://github.com/kshitijzutshi/BERT-NER-API)
+
 ## Requirements
 
 * Python 3.X
